@@ -1,0 +1,31 @@
+_repo: Notes-on-Philippine-Birds-Collected-by-Governor-W.-Cameron-ForbesCollege-Vol.-LXV.-No.-4._35241
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bangs, Outram
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '37550'
+    url: http://www.gutenberg.org/2009/agents/37550
+    wikipedia: http://en.wikipedia.org/wiki/Outram_Bangs
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Birds
+- Animal
+gutenberg_issued: '2011-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35241'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Birds -- Philippines'
+title: "Notes on Philippine Birds Collected by Governor W. Cameron Forbes\r\nBulletin\
+  \ of the Museum of Comparative Zoölogy at Harvard College, Vol. LXV. No. 4."
+url: http://www.gutenberg.org/ebooks/35241
