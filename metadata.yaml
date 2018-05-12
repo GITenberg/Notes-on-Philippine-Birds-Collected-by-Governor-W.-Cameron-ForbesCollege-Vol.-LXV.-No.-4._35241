@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37550
     wikipedia: http://en.wikipedia.org/wiki/Outram_Bangs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35241#Notes-on-Philippine-Birds-Collected-by-Governor-W.-Cameron-ForbesCollege-Vol.-LXV.-No.-4.
 gutenberg_bookshelf:
 - Animals-Wild-Birds
 - Animal
